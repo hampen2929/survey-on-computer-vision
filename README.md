@@ -115,6 +115,8 @@ https://github.com/facebookresearch/VideoPose3D
 
 ![Screenshot from 2020-04-12 07-51-29](https://user-images.githubusercontent.com/34574033/79056548-8fed8980-7c92-11ea-827c-9c57c2aaee30.png)
 
+![image](https://user-images.githubusercontent.com/34574033/79056560-b7445680-7c92-11ea-9a5a-f31407bbe9bb.png)
+
 精度と実行速度を両立することを目指したPerson-reidentificationの手法
 
 ### 所感
