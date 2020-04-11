@@ -115,7 +115,7 @@ https://github.com/facebookresearch/VideoPose3D
 
 ![Screenshot from 2020-04-12 07-51-29](https://user-images.githubusercontent.com/34574033/79056548-8fed8980-7c92-11ea-827c-9c57c2aaee30.png)
 
-![image](https://user-images.githubusercontent.com/34574033/79056560-b7445680-7c92-11ea-9a5a-f31407bbe9bb.png)
+![image](https://user-images.githubusercontent.com/34574033/79056569-d0e59e00-7c92-11ea-9613-187ac20d1835.png)
 
 精度と実行速度を両立することを目指したPerson-reidentificationの手法
 
@@ -129,7 +129,44 @@ Intelの人の論文でOpenVINOの公式実装に使われている手法で気�
 
 https://arxiv.org/abs/1812.02465
 
+## Omni-Scale Feature Learning for Person Re-Identification(OSNet)
+
+### 概要
+
+![image](https://user-images.githubusercontent.com/34574033/79056780-b9a7b000-7c94-11ea-8db2-e602663422d3.png)
+
+![image](https://user-images.githubusercontent.com/34574033/79056616-56694e00-7c93-11ea-9032-202846dfa5df.png)
+
+入力画像の中から異なる切り取り方をして特徴を抽出している
+
+OpenVINOのPerson-reidの公式実装に使われている手法
+
+### 所感
+
+### 参考
+
+https://arxiv.org/abs/1905.00953
+
+https://github.com/opencv/open_model_zoo/blob/develop/models/intel/index.md#reidentification-models
+
 # Image generation
+
+## Dual-Attention GAN for Large-Pose Face Frontalization
+
+### 概要
+
+![image](https://user-images.githubusercontent.com/34574033/79056793-e360d700-7c94-11ea-94bd-fd58eff84b17.png)
+
+角度の付いた顔画像から正面画像を生成するGAN
+正面の顔の特徴をskin, keypoint, hairlineに分割して3つのDiscriminaterに割り当てている。
+
+### 所感
+
+画像見る限り45度までなら本人っぽい画像が生成されてるように見える。
+
+### 参考
+
+https://arxiv.org/abs/2002.07227
 
 # 3D model generation
 
