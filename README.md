@@ -1,3 +1,20 @@
+はんぺんの関心が高い論文まとめ
+更新は気が向いたとき
+
+- 以下のフォーマットで記述
+
+```
+# タスク名
+
+## 論文名
+
+### 概要
+
+### 所感
+
+### 参考
+```
+
 # Classification
 
 ## EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
@@ -60,20 +77,4 @@ https://github.com/xingyizhou/CenterNet
 # Image generation
 
 # 3D model generation
-
-- 以下のフォーマットで記述
-
-```
-# タスク
-
-## 論文名
-
-### 概要
-
-### 所感
-
-### 参考
-```
-
-
 
