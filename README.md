@@ -23,11 +23,31 @@
 
 https://arxiv.org/abs/1905.11946
 
+https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet
+
 https://hampen2929.hatenablog.com/entry/2019/07/06/024347
 
 
-
 # Detection
+
+## Objects as Points(CenterNet)
+
+### 概要
+
+
+
+### 所感
+
+
+
+### 参考
+
+
+
+
+https://arxiv.org/abs/1904.07850
+
+https://github.com/xingyizhou/CenterNet
 
 # Tracking
 
@@ -40,4 +60,20 @@ https://hampen2929.hatenablog.com/entry/2019/07/06/024347
 # Image generation
 
 # 3D model generation
+
+- 以下のフォーマットで記述
+
+```
+# タスク
+
+## 論文名
+
+### 概要
+
+### 所感
+
+### 参考
+```
+
+
 
