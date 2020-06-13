@@ -170,3 +170,21 @@ https://arxiv.org/abs/2002.07227
 
 # 3D model generation
 
+# Action recognition
+
+## Simple yet efficient real-time pose-based action recognition
+### 概要
+標準的な単眼カメラセンサを用いて、人間を検出し、ポーズを推定し、経時的に追跡し、リアルタイムで行動を認識するパイプラインを実証
+
+![image](https://user-images.githubusercontent.com/34574033/84571799-b635bf80-add0-11ea-8ca8-1cb04d6c166c.png)
+
+![image](https://user-images.githubusercontent.com/34574033/84571806-c51c7200-add0-11ea-9eb1-04c7b6670755.png)
+
+### 参考
+
+https://arxiv.org/pdf/1904.09140.pdf
+
+https://github.com/noboevbo/ehpi_action_recognition
+
+
+
