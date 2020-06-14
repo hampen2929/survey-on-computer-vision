@@ -2,8 +2,11 @@
 
 ## 概要
 
-![image](https://user-images.githubusercontent.com/34574033/84583151-7d2d3780-ae30-11ea-954d-44503ed182f2.png)
+NNのアーキテクチャ設計は、ほとんどの場合、計算の複雑さの間接的な指標のFLOPsに基づいてる。しかし速度などの直接的な指標は、実行環境の特性にも依存する。そこで、本研究では実行環境上で直接評価を行うことを提案。
 
+
+
+![image](https://user-images.githubusercontent.com/34574033/84583151-7d2d3780-ae30-11ea-954d-44503ed182f2.png)
 
 ## 所感
 
