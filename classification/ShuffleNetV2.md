@@ -1,5 +1,14 @@
+# ShuffleNet V2: Practical Guidelines for EfficientCNN Architecture Design
 
+## 概要
 
+![image](https://user-images.githubusercontent.com/34574033/79056248-58311280-7c8f-11ea-94d9-9db145006b6f.png)
+
+![image](https://user-images.githubusercontent.com/34574033/79056252-5d8e5d00-7c8f-11ea-975c-91fa9d13c064.png)
+
+## 所感
+
+## 参考
 
 ## 翻訳
 
