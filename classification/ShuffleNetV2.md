@@ -2,9 +2,8 @@
 
 ## 概要
 
-![image](https://user-images.githubusercontent.com/34574033/79056248-58311280-7c8f-11ea-94d9-9db145006b6f.png)
+![image](https://user-images.githubusercontent.com/34574033/84583151-7d2d3780-ae30-11ea-954d-44503ed182f2.png)
 
-![image](https://user-images.githubusercontent.com/34574033/79056252-5d8e5d00-7c8f-11ea-975c-91fa9d13c064.png)
 
 ## 所感
 
